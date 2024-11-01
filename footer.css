@@ -1,0 +1,26 @@
+//footer
+.logo img{
+		display: inline;
+		height: 100px;
+		width: auto;
+		}
+		table[class="h1"] h2,h3{
+		color: grey;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		padding-left: 10px;
+		padding-right: 100px;
+		}
+		table[class="h2"] h2,h3{
+		color: yellow;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		padding-left: 10px;
+		padding-right: 10px;
+		display:inline-table;
+		background-color: green;
+		}
+img {
+    width: 100px;
+    height: 100px;
+	}
